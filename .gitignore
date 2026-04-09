@@ -1,0 +1,6 @@
+# .gitignore
+.env
+__pycache__/
+*.pyc
+output_*.md
+output_*.mmd
